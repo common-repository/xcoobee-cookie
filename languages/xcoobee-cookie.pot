@@ -1,0 +1,346 @@
+# Copyright (C) 2020 XcooBee
+# This file is distributed under the same license as the XcooBee package.
+msgid ""
+msgstr ""
+"Project-Id-Version: XcooBee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-xcoobee-cookie-admin-validations.php:70
+msgid "Display Option: at least one cookie type must be selected."
+msgstr ""
+
+#: includes/admin/class-xcoobee-cookie-admin-validations.php:91
+msgid "Remove Icon After: must be a positive integer between 0 and 3600."
+msgstr ""
+
+#: includes/admin/class-xcoobee-cookie-admin-validations.php:112
+msgid "Cookie Notice: notice length cannot exceed 1000 characters."
+msgstr ""
+
+#: includes/admin/class-xcoobee-cookie-admin.php:315, includes/admin/class-xcoobee-cookie-admin.php:316
+msgid "Cookie"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:28
+msgid "Layout and Type"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:29
+msgid "The type of cookies you will use:"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:32
+msgid "Display Option"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:33
+msgid "Check by Default"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:34
+msgid "Display Cookie Icon &amp; Popup in Corner"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:39, includes/admin/views/settings-cookie-synced-options.php:41
+msgid "Required Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:61, includes/admin/views/settings-cookie-synced-options.php:63, includes/admin/views/settings-cookie.php:134
+msgid "Personalization Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:74, includes/admin/views/settings-cookie-synced-options.php:76, includes/admin/views/settings-cookie.php:144, includes/admin/views/settings-cookie.php:147
+msgid "Statistics Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:87, includes/admin/views/settings-cookie-synced-options.php:89, includes/admin/views/settings-cookie.php:154, includes/admin/views/settings-cookie.php:157
+msgid "Advertising and Marketing Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:100
+msgid "Theme"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:103
+msgid "Popup"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:104
+msgid "Overlay"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:106
+msgid "Select the theme."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:115
+msgid "Privacy &amp; Terms"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:118
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:136, includes/admin/views/settings-cookie-synced-options.php:162
+msgid "Select an existing page or <a href=\"%1$s\">create a new page</a>."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:138, includes/admin/views/settings-cookie-synced-options.php:164
+msgid "No pages found. <a href=\"\">Create a new page</a>."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:144
+msgid "Terms of Service Page"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:175
+msgid "Network Options"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:178
+msgid "Remove Icon After"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:181
+msgid "Remove cookie icon after seconds (or 0 to keep)."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:185
+msgid "Disable Outside EU"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:190
+msgid "Do not display cookie notice outside EU countries."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:194
+msgid "Country Detection"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:199
+msgid "Allow country detection."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:203
+msgid "Fingerprint Consent"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:208
+msgid "Ask for fingerprint consent."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:213
+msgid "Hide Brand Tag"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:218
+msgid "Check this box to remove the XcooBee branding."
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:223
+msgid "Cookie Notice"
+msgstr ""
+
+#: includes/admin/views/settings-cookie-synced-options.php:226
+msgid "Cookie notice text."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:26
+msgid "XcooBee Cookie Addon"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:27
+msgid "The objective of the XcooBee cookie addon is to enable websites to manage their cookie consent more effectively and with less annoyance to their users. Correctly set cookies and remove cookies based on user choice. Even intercept and handle cookie setting for other plugins automatically. Manage cookie consent on XcooBee Privacy network with optional XcooBee account."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:29
+msgid "Activate Cookie Plugin"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:30
+msgid "Deactivate Cookie Plugin"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:41
+msgid "Connect to XcooBee (optional)"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:41
+msgid "Connected"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:41
+msgid "Disconnected"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:47
+msgid "Connect Campaign"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:51
+msgid "Disonnect Campaign"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:52
+msgid "Refresh"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:60
+msgid "To connect to XcooBee you need to provide valid API credentials in the <em>General</em> tab."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:71
+msgid "Local Options"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:74
+msgid "Default Country"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:79
+msgid "Enable default country."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:90
+msgid "Set default country to."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:94
+msgid "Do Not Sell"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:99
+msgid "Enable do not sell."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:103
+msgid "Test Mode"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:108
+msgid "Enable test mode."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:117
+msgid "Script Loading"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:124, includes/admin/views/settings-cookie.php:127
+msgid "Application Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:130, includes/admin/views/settings-cookie.php:139, includes/admin/views/settings-cookie.php:149, includes/admin/views/settings-cookie.php:159
+msgid "Insert scripts including the &lt;script&gt; tag."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:137
+msgid "Personalizatin Cookies"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:170
+msgid "Cookie Options"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:172
+msgid "To allow intercepting PHP calls, you need the <a target=\"_blank\" href=\"https://pecl.php.net/package/APD\">PECL APD</a> package to be installed on your server."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:176
+msgid "Allow Intercepting PHP Calls"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:181
+msgid "Allow catching all non-managed calls to create cookies for your site and assign them to a consent category and manage them."
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:185
+msgid "Default Category"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:188
+msgid "Application"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:189
+msgid "Personalization"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:190
+msgid "Statistics"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:191
+msgid "Advertising and Marketing"
+msgstr ""
+
+#: includes/admin/views/settings-cookie.php:193
+msgid "Default category for the non-managed cookie calls."
+msgstr ""
+
+#: xcoobee-cookie.php:99
+msgid "XcooBee Cookie requires XcooBee for WordPress to be installed and active. You can download %s here."
+msgstr ""
+
+#: xcoobee-cookie.php:168
+msgid "View XcooBee GDPR Cookie Manager settings"
+msgstr ""
+
+#: xcoobee-cookie.php:168
+msgid "Settings"
+msgstr ""
+
+#: xcoobee-cookie.php:236
+msgid "Cookie plugin activated!"
+msgstr ""
+
+#: xcoobee-cookie.php:237
+msgid "Could not activate cookie plugin."
+msgstr ""
+
+#: xcoobee-cookie.php:238
+msgid "Cookie plugin deactivated!"
+msgstr ""
+
+#: xcoobee-cookie.php:239
+msgid "Could not deactivate cookie plugin."
+msgstr ""
+
+#: xcoobee-cookie.php:240
+msgid "Campaign connected!"
+msgstr ""
+
+#: xcoobee-cookie.php:241
+msgid "Campaign disconnected!."
+msgstr ""
+
+#: xcoobee-cookie.php:242
+msgid "Could not connect campaign."
+msgstr ""
+
+#: xcoobee-cookie.php:243
+msgid "Could not disconnect campaign."
+msgstr ""
+
+#: xcoobee-cookie.php:245
+msgid "Invalid campaign Id."
+msgstr ""
+
+#: xcoobee-cookie.php:246
+msgid "We could not find a campaign that matches this domain. Please go to your XcooBee account and create a cookie campaign for this site. You will need to be a professional or higher subscriber."
+msgstr ""
+
+#: xcoobee-cookie.php:248
+msgid "Campaign data updated!"
+msgstr ""
+
+#: xcoobee-cookie.php:249
+msgid "Could not update campaign data."
+msgstr ""

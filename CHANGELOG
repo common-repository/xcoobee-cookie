@@ -1,0 +1,22 @@
+== Changelog ==
+
+= 1.0.0 - 2019-01-14 =
+* Initial release.
+
+= 1.0.1 - 2019-01-14 =
+* Description update
+
+= 1.0.2 - 2019-01-30 =
+* update to allow other plugins to use XCK
+* simplify cookie writing
+
+= 1.1.0 - 2019-03-21 =
+* general updates and fixes
+
+= 1.3.2 - 2020-01-30 =
+* bug fixes 
+* expose more features of XcooBee Cookie Kit in WordPress
+
+= 1.3.3 - 2020-02-25 =
+* connected state enhancements 
+* expose more features of XcooBee Cookie Kit in WordPress
